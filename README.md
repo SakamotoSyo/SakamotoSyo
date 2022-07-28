@@ -9,5 +9,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kouzukimisuzu&count_private=true&show_icons=true&locale=en&layout=compact" alt="kouzukimisuzu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kouzukimisuzu&show_icons=true&locale=en" alt="kouzukimisuzu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kouzukimisuzu&count_private=true&show_icons=true&locale=en" alt="kouzukimisuzu" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kouzukimisuzu&" alt="kouzukimisuzu" /></p>
